@@ -1,0 +1,6 @@
+netty-server:
+  boss-thread-count: 1
+  work-thread-count: 10
+  bind-host: 0.0.0.0
+  port: 8081
+  server-kind: nio
